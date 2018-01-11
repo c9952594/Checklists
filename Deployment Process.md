@@ -1,3 +1,22 @@
+# Deployment things
+
+* [ ] Create release documentation
+* [ ] Create any roles/users required on the server
+* [ ] Desired State Configuration
+	* [ ] Setup server
+	* [ ] Setup windows features
+	* [ ] Setup communications
+		* [ ] Firewall
+		* [ ] Ports
+	* [ ] Setup (event) logging
+* [ ] Install service 
+* [ ] Run smoke tests
+* [ ] Communications - started and stopped
+* [ ] Turn off monitoring
+* [ ] Handle load balancing
+* [ ] Handle pools - offline/online
+
+
 # Setting up a deployment process
 
 * [ ] If a deployment goes wrong can it be rolled back to the previous correct version?
@@ -28,10 +47,6 @@
 * [ ] Does the process deploy required users to local/remote systems?
 
 ## Infrastructure
-
-* [ ] Turn off monitoring
-* [ ] Handle load balancing
-* [ ] Handle pools - offline/online
 
 ## Toggles
 
