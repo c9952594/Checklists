@@ -11,12 +11,14 @@
 	* [ ] Setup (event) logging
 * [ ] Install service 
 * [ ] Run smoke tests
+	* [ ] Include dependancies
+		* [ ] Include test runner along with the tests
 * [ ] Communications - started and stopped
 * [ ] Turn off monitoring
 * [ ] Handle load balancing
 * [ ] Handle pools - offline/online
-
-
+* [ ] Setup automated code review tools
+ 
 # Setting up a deployment process
 
 * [ ] If a deployment goes wrong can it be rolled back to the previous correct version?
